@@ -1,0 +1,41 @@
+Nombre,Edad,Grupo,Lugar_al_momento_del_robo,Gusto,Calificación_promedio,Horas_estudio_semanales,Asistencia_%,Participación_clase
+Estudiante_1,17,11A,Sala de informática,Deportes,2.8,5,71.5,2.0
+Estudiante_2,15,10B,Cancha,Arte,3.4,8,100.0,3.4
+Estudiante_3,15,10B,Baños,Videojuegos,5.0,4,95.1,3.5
+Estudiante_4,17,11A,Cafetería,Deportes,4.5,9,99.1,2.7
+Estudiante_5,16,10A,Cancha,Deportes,3.1,3,97.8,3.3
+Estudiante_6,15,10A,Biblioteca,Arte,3.1,10,95.5,3.1
+Estudiante_7,15,11B,Cafetería,Deportes,3.9,10,75.0,4.7
+Estudiante_8,15,10A,Biblioteca,Arte,2.7,8,84.6,1.8
+Estudiante_9,17,11A,Cancha,Música,4.3,4,76.4,3.9
+Estudiante_10,15,11A,Sala de informática,Arte,4.5,8,82.0,2.0
+Estudiante_11,17,11A,Cancha,Videojuegos,4.9,7,71.8,2.6
+Estudiante_12,17,10A,Biblioteca,Videojuegos,3.8,4,81.4,3.7
+Estudiante_13,17,11B,Cafetería,Arte,2.8,2,99.6,2.2
+Estudiante_14,15,10A,Baños,Música,4.1,2,78.0,2.3
+Estudiante_15,17,11B,Cancha,Música,4.9,7,93.5,4.0
+Estudiante_16,16,10A,Cafetería,Videojuegos,2.9,6,83.7,1.3
+Estudiante_17,15,11A,Sala de informática,Música,3.8,7,82.7,2.8
+Estudiante_18,15,11A,Sala de informática,Deportes,4.0,7,98.7,5.0
+Estudiante_19,15,10B,Sala de informática,Lectura,4.9,8,99.9,5.0
+Estudiante_20,15,10A,Cafetería,Deportes,4.8,1,86.7,1.3
+Estudiante_21,15,10A,Cancha,Videojuegos,4.4,2,91.6,1.9
+Estudiante_22,17,10B,Cafetería,Música,4.2,1,74.6,2.1
+Estudiante_23,17,11A,Cafetería,Arte,4.3,7,78.9,4.7
+Estudiante_24,15,10A,Baños,Lectura,3.5,6,99.1,4.5
+Estudiante_25,17,10B,Baños,Arte,4.2,2,87.4,4.5
+Estudiante_26,15,10A,Cancha,Videojuegos,3.4,4,86.3,2.5
+Estudiante_27,17,11B,Baños,Música,4.7,4,92.4,1.6
+Estudiante_28,17,11A,Sala de informática,Arte,3.6,4,71.7,4.3
+Estudiante_29,17,11B,Baños,Arte,3.1,9,87.5,3.8
+Estudiante_30,17,11A,Sala de informática,Lectura,2.7,8,85.1,3.4
+Estudiante_31,16,10B,Cancha,Lectura,2.6,3,95.6,4.9
+Estudiante_32,15,11A,Cafetería,Música,3.9,7,74.7,3.6
+Estudiante_33,16,11A,Cafetería,Lectura,4.0,3,98.8,1.0
+Estudiante_34,17,10B,Baños,Arte,2.5,5,72.4,4.3
+Estudiante_35,16,11A,Sala de informática,Arte,4.3,8,75.6,2.2
+Estudiante_36,15,10A,Sala de informática,Videojuegos,4.2,4,87.9,3.7
+Estudiante_37,15,10B,Biblioteca,Arte,2.7,2,90.3,4.8
+Estudiante_38,17,10B,Biblioteca,Música,2.6,8,77.1,1.5
+Estudiante_39,16,10B,Cafetería,Deportes,3.3,9,73.6,1.5
+Estudiante_40,16,11B,Cafetería,Videojuegos,3.8,2,96.7,1.4
